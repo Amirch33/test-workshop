@@ -4,3 +4,4 @@ white
 red
 blue
 black
+pink
