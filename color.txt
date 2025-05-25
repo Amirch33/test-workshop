@@ -1,7 +1,4 @@
 aqua
 blue
 white
-red
-blue
-black
-pink
+
